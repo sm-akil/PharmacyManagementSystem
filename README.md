@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center"> *🎀【𝓟𝓱𝓪𝓻𝓶𝓪𝓬𝔂 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶】🎀*</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
