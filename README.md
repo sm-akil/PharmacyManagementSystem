@@ -1,13 +1,6 @@
 
 <a name="readme-top"></a>
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -77,9 +70,9 @@
 [Project Name Screen Shot]
 <img src="images/Pharmacy.png" alt="Logo" width="600" height="350">
 <br><br>
-One of the core roles of a pharmacy management is to oversee the pharmacy staff and manage the people in order to maintain positive work relations and results. There are several different types of pharmacy staff, including pharmacists, pharmacy assistants and pharmacy technicians. 
-<br>
-<br>
+One of the core roles of a pharmacy management is to oversee the pharmacy staff and manage the people in order to maintain positive work relations and results. There are several different types of pharmacy staff, including pharmacists, pharmacy assistants and pharmacy technicians. :syringe::syringe::syringe: 
+
+
 :pill:Objective :
 The main objective of the Pharmacy Management System is to manage the details of Medicines, Stocks, Inventory,Pharmacy, Sells. It manages all the information about Medicines, Company, Sells, Medicines. The project is totally built at administrative end and thus only the administrator is guaranteed the access :v:
 
@@ -104,12 +97,12 @@ It should take care of :
 
 
 :pill:How to Develop a Pharmacy Management Software in 6 Steps :
-01. State the business goal.
-02. Write out your requirements.
-03. Listen to the users.
-04. Record the insights.
-05. Find a vendor.
-06. Test with real users.
+:drop_of_blood: State the business goal.
+:drop_of_blood: Write out your requirements.
+:drop_of_blood: Listen to the users.
+:drop_of_blood: Record the insights.
+:drop_of_blood: Find a vendor.
+:drop_of_blood: Test with real users.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,7 +134,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* example
   ```sh
   npm install npm@latest -g
   ```
@@ -226,9 +219,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - [@your_twitter](https://twitter.com/akil_sm9) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/sm-akil/PharmacyManagementSystem)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
