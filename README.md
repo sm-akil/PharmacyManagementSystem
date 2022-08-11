@@ -67,39 +67,36 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project :
 <br />
-[Project Name Screen Shot]<br />
 <div align="center">
 <img src="images/Pharmacy.png" alt="Logo" width="600" height="350">
 </div><br />
-One of the core roles of a pharmacy management is to oversee the pharmacy staff and manage the people in order to maintain positive work relations and results. There are several different types of pharmacy staff, including pharmacists, pharmacy assistants and pharmacy technicians. :syringe::syringe::syringe: 
-
-
-
+:syringe: :syringe: One of the core roles of a pharmacy management is to oversee the pharmacy staff and manage the people in order to maintain positive work relations and results. There are several different types of pharmacy staff, including pharmacists, pharmacy assistants and pharmacy technicians. :syringe::syringe:
+<br />
 
 :pill:Objective :<br />
 The main objective of the Pharmacy Management System is to manage the details of Medicines, Stocks, Inventory,Pharmacy, Sells. It manages all the information about Medicines, Company, Sells, Medicines. The project is totally built at administrative end and thus only the administrator is guaranteed the access :v:
 
 
-:pill:Typical features to think about Pharmacy Management System :
+:pill:Typical features to think about Pharmacy Management System :<br />
 * Control stock by product and location
 * Get stock updates to know when purchasing a particular drug again
 * Generate reports to plan re-stocking
 * Get notifications when it’s time to order from your suppliers
 
 
-:pill:Prescription handling :
+:pill:Prescription handling :<br />
 Another thing to ease the workflow is to make prescription management fast and error-free. Pharmaceutical software solutions make the preparation, pick-up, and refill process a matter of minutes. The result? Less incoming calls, fewer queues, and more happy customers.
 
-:pill:Financial management :
+:pill:Financial management : <br />
 Billing is another pain point of the pharma business as it involves three parties: consumer, pharmacy, supplier. Automating the billing procedures is a necessity and the business better invest in it to avoid mistakes. 
-It should take care of :
+It should take care of :<br />
 * Daily transactions
 * Supply billing
 * Insurance reimbursemen
 * Delayed payments
 
 
-:pill:How to Develop a Pharmacy Management Software in 6 Steps :
+:pill:How to Develop a Pharmacy Management Software in 6 Steps :<br />
 * [:drop_of_blood:] State the business goal.
 * [:drop_of_blood:] Write out your requirements.
 * [:drop_of_blood:] Listen to the users.
@@ -132,37 +129,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* example
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
