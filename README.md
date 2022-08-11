@@ -99,12 +99,12 @@ It should take care of :
 
 
 :pill:How to Develop a Pharmacy Management Software in 6 Steps :
-[:drop_of_blood:] State the business goal.
-:drop_of_blood: Write out your requirements.
-:drop_of_blood: Listen to the users.
-:drop_of_blood: Record the insights.
-:drop_of_blood: Find a vendor.
-:drop_of_blood: Test with real users.
+* [:drop_of_blood:] State the business goal.
+* [:drop_of_blood:] Write out your requirements.
+* [:drop_of_blood:] Listen to the users.
+* [:drop_of_blood:] Record the insights.
+* [:drop_of_blood:] Find a vendor.
+* [:drop_of_blood:] Test with real users.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
