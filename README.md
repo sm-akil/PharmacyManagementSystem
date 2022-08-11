@@ -21,8 +21,8 @@
   <p align="center">
     I worked on this Pharmacy~Management projrct for Software Developing Course.
     <br />
-       <strong>:shield:Created by ~ Sayed MD. Sadik Iqbal Akil:lock:</strong><br />
-       <strong>:shield:ID ~ 1803510201664(B1):lock:</strong>
+       <strong>:lock:Created by ~ 𝕊𝕒𝕪𝕖𝕕 𝕄𝔻. 𝕊𝕒𝕕𝕚𝕜 𝕀𝕢𝕓𝕒𝕝 𝔸𝕜𝕚𝕝:shield:</strong><br />
+       <strong>:lock:ID ~ 『𝟭𝟴𝟬𝟯𝟱𝟭𝟬𝟮𝟬𝟭𝟲𝟲𝟰(𝗕𝟭)』:shield:</strong>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
