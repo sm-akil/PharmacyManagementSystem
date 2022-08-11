@@ -78,20 +78,21 @@
 <img src="images/Pharmacy.png" alt="Logo" width="600" height="350">
 <br><br>
 One of the core roles of a pharmacy management is to oversee the pharmacy staff and manage the people in order to maintain positive work relations and results. There are several different types of pharmacy staff, including pharmacists, pharmacy assistants and pharmacy technicians. 
-
-Objective :
-The main objective of the Pharmacy Management System is to manage the details of Medicines, Stocks, Inventory,Pharmacy, Sells. It manages all the information about Medicines, Company, Sells, Medicines. The project is totally built at administrative end and thus only the administrator is guaranteed the access smile:
-smile:
-Typical features to think about Pharmacy Management System :
+<br>
+<br>
+:pill:Objective :
+The main objective of the Pharmacy Management System is to manage the details of Medicines, Stocks, Inventory,Pharmacy, Sells. It manages all the information about Medicines, Company, Sells, Medicines. The project is totally built at administrative end and thus only the administrator is guaranteed the access :v:
+<br>
+:pill:Typical features to think about Pharmacy Management System :
 * Control stock by product and location
 * Get stock updates to know when purchasing a particular drug again
 * Generate reports to plan re-stocking
 * Get notifications when it’s time to order from your suppliers
-smile:
-Prescription handling :
+<br>
+:pill:Prescription handling :
 Another thing to ease the workflow is to make prescription management fast and error-free. Pharmaceutical software solutions make the preparation, pick-up, and refill process a matter of minutes. The result? Less incoming calls, fewer queues, and more happy customers.
-smile:
-Financial management :
+
+:pill:Financial management :
 Billing is another pain point of the pharma business as it involves three parties: consumer, pharmacy, supplier. Automating the billing procedures is a necessity and the business better invest in it to avoid mistakes. 
 It should take care of :
 * Daily transactions
@@ -99,8 +100,8 @@ It should take care of :
 * Insurance reimbursemen
 * Delayed payments
 
-smile:
-How to Develop a Pharmacy Management Software in 6 Steps :
+
+How to Develop a Pharmacy Management Software in 6 Steps ::pill:
 01. State the business goal.
 02. Write out your requirements.
 03. Listen to the users.
