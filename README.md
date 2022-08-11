@@ -74,6 +74,7 @@ One of the core roles of a pharmacy management is to oversee the pharmacy staff 
 
 
 :pill:Objective :
+
 The main objective of the Pharmacy Management System is to manage the details of Medicines, Stocks, Inventory,Pharmacy, Sells. It manages all the information about Medicines, Company, Sells, Medicines. The project is totally built at administrative end and thus only the administrator is guaranteed the access :v:
 
 
