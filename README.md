@@ -74,19 +74,39 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <br>
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[Project Name Screen Shot]
 <img src="images/Pharmacy.png" alt="Logo" width="600" height="350">
 <br><br>
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+One of the core roles of a pharmacy management is to oversee the pharmacy staff and manage the people in order to maintain positive work relations and results. There are several different types of pharmacy staff, including pharmacists, pharmacy assistants and pharmacy technicians. 
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Objective :
+The main objective of the Pharmacy Management System is to manage the details of Medicines, Stocks, Inventory,Pharmacy, Sells. It manages all the information about Medicines, Company, Sells, Medicines. The project is totally built at administrative end and thus only the administrator is guaranteed the access :smile:
+smile:
+Typical features to think about Pharmacy Management System :
+* Control stock by product and location
+* Get stock updates to know when purchasing a particular drug again
+* Generate reports to plan re-stocking
+* Get notifications when it’s time to order from your suppliers
+smile:
+Prescription handling :
+Another thing to ease the workflow is to make prescription management fast and error-free. Pharmaceutical software solutions make the preparation, pick-up, and refill process a matter of minutes. The result? Less incoming calls, fewer queues, and more happy customers.
+smile:
+Financial management :
+Billing is another pain point of the pharma business as it involves three parties: consumer, pharmacy, supplier. Automating the billing procedures is a necessity and the business better invest in it to avoid mistakes. 
+It should take care of :
+* Daily transactions
+* Supply billing
+* Insurance reimbursemen
+* Delayed payments
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+smile:
+How to Develop a Pharmacy Management Software in 6 Steps :
+01. State the business goal.
+02. Write out your requirements.
+03. Listen to the users.
+04. Record the insights.
+05. Find a vendor.
+06. Test with real users.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
