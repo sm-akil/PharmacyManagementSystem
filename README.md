@@ -118,8 +118,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
@@ -221,9 +219,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/akil_sm9) - email@example.com
+Your Name - [@akil_sm9](https://twitter.com/akil_sm9) - akil.ckb@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/sm-akil/PharmacyManagementSystem)
+Project Link: [https://github.com/sm-akil/PharmacyManagementSystem](https://github.com/sm-akil/PharmacyManagementSystem)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
