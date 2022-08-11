@@ -11,9 +11,8 @@
 
 
 <!-- PROJECT LOGO -->
-<br/>
+<br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/Capture.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -22,7 +21,8 @@
   <p align="center">
     I worked on this Pharmacy~Management projrct for Software Developing Course.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+       <strong>:shield:Created by ~ Sayed MD. Sadik Iqbal Akil:lock:</strong><br />
+       <strong>:shield:ID ~ 1803510201664(B1):lock:</strong>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
@@ -69,13 +69,13 @@
 <br>
 [Project Name Screen Shot]
 <img src="images/Pharmacy.png" alt="Logo" width="600" height="350">
-<br><br>
+<br />
 One of the core roles of a pharmacy management is to oversee the pharmacy staff and manage the people in order to maintain positive work relations and results. There are several different types of pharmacy staff, including pharmacists, pharmacy assistants and pharmacy technicians. :syringe::syringe::syringe: 
 
 
 
 
-:pill:Objective :
+:pill:Objective :<br />
 The main objective of the Pharmacy Management System is to manage the details of Medicines, Stocks, Inventory,Pharmacy, Sells. It manages all the information about Medicines, Company, Sells, Medicines. The project is totally built at administrative end and thus only the administrator is guaranteed the access :v:
 
 
