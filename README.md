@@ -65,11 +65,12 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-<br>
-[Project Name Screen Shot]
-<img src="images/Pharmacy.png" alt="Logo" width="600" height="350">
+## About The Project :
 <br />
+[Project Name Screen Shot]<br />
+<div align="center">
+<img src="images/Pharmacy.png" alt="Logo" width="600" height="350">
+</div><br />
 One of the core roles of a pharmacy management is to oversee the pharmacy staff and manage the people in order to maintain positive work relations and results. There are several different types of pharmacy staff, including pharmacists, pharmacy assistants and pharmacy technicians. :syringe::syringe::syringe: 
 
 
