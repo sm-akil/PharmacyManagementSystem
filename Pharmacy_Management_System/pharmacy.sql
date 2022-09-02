@@ -60,9 +60,8 @@ CREATE TABLE invoices (
 --
 
 INSERT INTO invoices (`INVOICE_ID`, `NET_TOTAL`, `INVOICE_DATE`, `CUSTOMER_ID`, `TOTAL_AMOUNT`, `TOTAL_DISCOUNT`) VALUES
-(1, 30, '2021-10-19', 14, 30, 0),
-(2, 2626, '2021-10-19', 6, 2626, 0);
 
+);
 
 --
 -- Table structure for table `medicines`
@@ -81,11 +80,8 @@ CREATE TABLE medicines (
 --
 
 INSERT INTO medicines (ID, NAME, PACKING, GENERIC_NAME, SUPPLIER_NAME) VALUES
-(1, 'Nicip Plus', '10tab', 'Paracetamole', 'BDPL PHARMA'),
-(2, 'Crosin', '10tab', 'Hdsgvkvajkcbja', 'Kiran Pharma'),
-(4, 'Dolo 650', '15tab', 'paracetamole', 'BDPL PHARMA'),
-(5, 'Gelusil', '10tab', 'mint fla', 'Desai Pharma');
 
+);
 
 --
 -- Table structure for table of *medicines_stock*
@@ -106,12 +102,8 @@ CREATE TABLE medicines_stock (
 --
 
 INSERT INTO medicines_stock (ID, NAME, BATCH_ID, EXPIRY_DATE, QUANTITY, MRP, RATE) VALUES
-(1, 'Crosin', 'CROS12', '12/34', 2, 2626, 26),
-(2, 'Gelusil', 'G327', '12/42', 0, 15, 12),
-(3, 'Dolo 650', 'DOLO327', '01/23', 3, 30, 24),
-(4, 'Nicip Plus', 'NI325', '05/22', 3, 32.65, 28);
 
-
+);
 
 --
 -- Table structure for table of *purchases*
@@ -145,6 +137,7 @@ CREATE TABLE suppliers (
 
 
 INSERT INTO suppliers (ID, NAME, EMAIL, CONTACT_NUMBER, ADDRESS) VALUES
+
 );
 
 --
