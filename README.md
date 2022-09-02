@@ -170,7 +170,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@akil_sm9](https://twitter.com/akil_sm9) - akil.ckb@gmail.com
+𝕤𝕞_𝕒𝕜𝕚𝕝 - [@akil_sm9](https://twitter.com/akil_sm9) - akil.ckb@gmail.com
 
 Project Link: [https://github.com/sm-akil/PharmacyManagementSystem](https://github.com/sm-akil/PharmacyManagementSystem)
 
