@@ -80,7 +80,7 @@ The main objective of the Pharmacy Management System is to manage the details of
 :pill:Data Flow Diagram of my Phermacy Management Project : <br />
 
 <br />
-<img src="images/Data Flow Diagram(pharmacy_management).jpg" alt="Logo" width="300" height="250">
+<img src="images/Data Flow Diagram(pharmacy_management).jpg" alt="Logo" width="400" height="350">
 
 :pill:Typical features to think about Pharmacy Management System :<br />
 * Control stock by product and location
