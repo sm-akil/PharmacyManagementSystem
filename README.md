@@ -77,6 +77,9 @@
 The main objective of the Pharmacy Management System is to manage the details of Medicines, Stocks, Inventory,Pharmacy, Sells. It manages all the information about Medicines, Company, Sells, Medicines. The project is totally built at administrative end and thus only the administrator is guaranteed the access :v:  <br />
 <br />
 
+:pill:Data Flow Diagram of my Phermacy Management Project : <br />
+
+<br />
 <img src="images/Data Flow Diagram(pharmacy_management).jpg" alt="Logo" width="300" height="250">
 
 :pill:Typical features to think about Pharmacy Management System :<br />
