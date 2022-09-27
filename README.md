@@ -84,7 +84,7 @@ The main objective of the Pharmacy Management System is to manage the details of
 </div>
 <br />
 
-Show more Diagram of this pharmacy management System.... ([https://github.com/sm-akil/PharmacyManagementSystem](https://github.com/sm-akil/Diagram))
+Show more Diagram of this pharmacy management System.... ([(https://github.com/sm-akil/Diagram)](https://github.com/sm-akil/Diagram)
 
 :pill:Typical features to think about Pharmacy Management System :<br />
 * Control stock by product and location
